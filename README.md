@@ -22,18 +22,29 @@ Might work under others, but didn't get to test any other OSs just yet.
 
 ## Getting Started:
 ### Installation
-- create a test environment
+- create a PCSR environment
 ```bash
 pip conda create -n PCSR numbapro
+```
+- activate the PCSR environment
+```bash
 source activate PCSR
+```
+- install opencv
+```bash
+conda install opencv 
+```
+- install python-spams
+```bash
+conda install -c conda-forge python-spams
 ```
 
 ### Testing 
-- To test the model:
+- To test the PCSR model:
 ```bash
 python main.py
 ``` 
-The test results will be saved in: `./results/.`
+The test results will be saved in: `./Results/.`
 
 ## Citation:
     @ARTICLE{yin2019PCCE, 
