@@ -25,7 +25,7 @@ Might work under others, but didn't get to test any other OSs just yet.
 ### Installation
 - create a PCSR environment
 ```bash
-pip conda create -n PCSR numbapro
+conda create -n PCSR numbapro
 ```
 - activate the PCSR environment
 ```bash
