@@ -4,7 +4,7 @@ Jia-Li Yin, Bo-Hao Chen, En-Hung Lai, and Ling-Feng Shi
 
 ![](/demo.png)
 
-## Requirement:
+## Prerequisites:
 > * Linux
 > * Anaconda
 > * CUDA 9.2
@@ -22,9 +22,10 @@ Might work under others, but didn't get to test any other OSs just yet.
 
 ## Getting Started:
 ### Installation
-- Install python libraries and requests.
+- create a test environment
 ```bash
-pip install -r requirements.txt
+pip conda create -n PCSR numbapro
+source activate PCSR
 ```
 
 ### Testing 
