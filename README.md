@@ -18,6 +18,7 @@ Jia-Li Yin, Bo-Hao Chen, En-Hung Lai, and Ling-Feng Shi
 ## It was tested and runs under the following OSs:
 * Ubuntu 18.04
 * Ubuntu 16.04
+
 Might work under others, but didn't get to test any other OSs just yet.
 
 ## Getting Started:
