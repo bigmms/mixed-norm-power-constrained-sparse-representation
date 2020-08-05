@@ -47,16 +47,12 @@ python main.py
 ``` 
 The test results will be saved in: `./Results/.`
 
-## Citation:
+## Citation:   
     @ARTICLE{yin2019PCCE, 
     author={J. {Yin} and B. {Chen} and E. {Lai} and L. {Shi}}, 
-    journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-    title={Power-constrained Image Contrast Enhancement through Sparse Representation by Joint Mixed-norm Regularization}, 
-    year={2019}, 
-    volume={}, 
-    number={}, 
-    pages={1-1}, 
-    keywords={Organic light emitting diodes;Image reconstruction;Power demand;Image quality;TV;Batteries;Computational modeling;contrast enhancement;sparse representation;power consumption}, 
-    doi={10.1109/TCSVT.2019.2925208}, 
-    ISSN={1051-8215}, 
-    month={},}
+    journal={IEEE Transactions on Circuits and Systems for Video Technology},  
+    title={Power-Constrained Image Contrast Enhancement Through Sparse Representation by Joint Mixed-Norm Regularization},  
+    year={2020},  
+    volume={30}, 
+    number={8},  
+    pages={2477-2488},}
